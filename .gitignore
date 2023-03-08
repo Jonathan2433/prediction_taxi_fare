@@ -3,3 +3,5 @@
 api_key.json
 /GMAP
 *.json
+../ASSETS/GMAP/
+../ASSETS/GMAP/api_key.json
