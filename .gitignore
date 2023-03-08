@@ -1,3 +1,5 @@
 /DATA
 *.csv
 api_key.json
+/GMAP
+*.json
